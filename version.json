@@ -1,5 +1,5 @@
 {
-  "version": "3.7.0",
+  "version": "3.8.0",
   "date": "2026-07-09",
-  "notes": "작업자 APK 서버 배포 기능 (/app 다운로드 페이지 + QR)"
+  "notes": "Tailwind CSS 로컬 내장 (인터넷 없이도 화면 정상, APK 앱 깨짐 해결)"
 }
