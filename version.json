@@ -1,5 +1,5 @@
 {
-  "version": "3.5.0",
+  "version": "3.6.0",
   "date": "2026-07-08",
-  "notes": "HTTPS 터널(Cloudflare) 추가 - WebAPK 진짜 앱 설치 지원, 관리자에 QR 표시"
+  "notes": "QR 로컬 생성, 박람회 재고 제품 편집, 요청 알림 전체탭 유지, 알림 클릭시 상단 표시"
 }
